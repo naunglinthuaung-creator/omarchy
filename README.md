@@ -1,4 +1,4 @@
-# Omarchy
+.# Omarchy
 
 Omarchy is a beautiful, fun & agentic Linux distribution by DHH.
 
